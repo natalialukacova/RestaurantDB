@@ -37,7 +37,7 @@
         <mxCell id="t0-m4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=8;fontStyle=1;fontSize=15;" value="" vertex="1">
           <mxGeometry height="38" width="88" x="70" y="336" as="geometry" />
         </mxCell>
-        <mxCell id="t0-a4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=10;fontSize=15;" value="email - VARCHAR(255)" vertex="1">
+        <mxCell id="t0-a4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=10;fontSize=15;" value="email - VARCHAR(190)" vertex="1">
           <mxGeometry height="38" width="292" x="158" y="336" as="geometry" />
         </mxCell>
         <mxCell id="t0-outline" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#111111;pointerEvents=0;" value="" vertex="1">
@@ -109,8 +109,8 @@
         <mxCell id="t2-m3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=8;fontStyle=1;fontSize=15;" value="" vertex="1">
           <mxGeometry height="38" width="88" x="1250" y="298" as="geometry" />
         </mxCell>
-        <mxCell id="t2-a3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=10;fontSize=15;" value="email - VARCHAR(255) UNIQUE" vertex="1">
-          <mxGeometry height="38" width="292" x="1338" y="298" as="geometry" />
+        <mxCell id="t2-a3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=10;fontSize=15;" value="email - VARCHAR(190) UNIQUE" vertex="1">
+          <mxGeometry height="38" width="292" x="1337" y="298" as="geometry" />
         </mxCell>
         <mxCell id="t2-m4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=8;fontStyle=1;fontSize=15;" value="" vertex="1">
           <mxGeometry height="38" width="88" x="1250" y="336" as="geometry" />
